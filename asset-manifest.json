@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/christiantumandao.github.io/static/css/main.6ec23def.css",
+    "main.js": "/christiantumandao.github.io/static/js/main.1a2e4b9e.js",
+    "static/js/787.b57a20a5.chunk.js": "/christiantumandao.github.io/static/js/787.b57a20a5.chunk.js",
+    "static/media/portrait-1.png": "/christiantumandao.github.io/static/media/portrait-1.2bd9042abdaedab776a0.png",
+    "static/media/communalImg.png": "/christiantumandao.github.io/static/media/communalImg.238af0dd505c8482fb56.png",
+    "static/media/Tumandao-Christian-Resume.pdf": "/christiantumandao.github.io/static/media/Tumandao-Christian-Resume.b585891f4f102ba09d48.pdf",
+    "static/media/petriImg.png": "/christiantumandao.github.io/static/media/petriImg.b33672a8d67ea0076d37.png",
+    "static/media/chessImg.png": "/christiantumandao.github.io/static/media/chessImg.d4a71adfc2c3db772d00.png",
+    "index.html": "/christiantumandao.github.io/index.html",
+    "main.6ec23def.css.map": "/christiantumandao.github.io/static/css/main.6ec23def.css.map",
+    "main.1a2e4b9e.js.map": "/christiantumandao.github.io/static/js/main.1a2e4b9e.js.map",
+    "787.b57a20a5.chunk.js.map": "/christiantumandao.github.io/static/js/787.b57a20a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ec23def.css",
+    "static/js/main.1a2e4b9e.js"
+  ]
+}

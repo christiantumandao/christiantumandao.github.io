@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.bc3679aa.css",
-    "main.js": "/static/js/main.ae0f41ba.js",
+    "main.js": "/static/js/main.8e24ba1e.js",
     "static/js/787.b57a20a5.chunk.js": "/static/js/787.b57a20a5.chunk.js",
     "static/media/weather.png": "/static/media/weather.fe9e3346f88faa3e7a86.png",
     "static/media/portrait-1.png": "/static/media/portrait-1.2bd9042abdaedab776a0.png",
     "static/media/communalImg.png": "/static/media/communalImg.238af0dd505c8482fb56.png",
-    "static/media/Tumandao-Christian-Resume.pdf": "/static/media/Tumandao-Christian-Resume.6517bf9035442d00f4ff.pdf",
+    "static/media/Tumandao-Christian-Resume.pdf": "/static/media/Tumandao-Christian-Resume.b81ba7aa190a2a8f183c.pdf",
     "static/media/petriImg.png": "/static/media/petriImg.b33672a8d67ea0076d37.png",
     "static/media/chessImg.png": "/static/media/chessImg.d4a71adfc2c3db772d00.png",
     "index.html": "/index.html",
     "main.bc3679aa.css.map": "/static/css/main.bc3679aa.css.map",
-    "main.ae0f41ba.js.map": "/static/js/main.ae0f41ba.js.map",
+    "main.8e24ba1e.js.map": "/static/js/main.8e24ba1e.js.map",
     "787.b57a20a5.chunk.js.map": "/static/js/787.b57a20a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc3679aa.css",
-    "static/js/main.ae0f41ba.js"
+    "static/js/main.8e24ba1e.js"
   ]
 }
